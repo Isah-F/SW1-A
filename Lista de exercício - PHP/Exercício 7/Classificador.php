@@ -6,7 +6,7 @@
     echo"<h2>Resultado média: ".$media"</h2>";
     if($media >=7){
         echo"<b>Aprovado!</b>";
-    }elise if ($media >=5 && $media <7){
+    }elseif ($media >=5 && $media <7){
         echo"<b>Recuperação.</b>";
     }else{
         echo"<b>Reprovado.</b>";
