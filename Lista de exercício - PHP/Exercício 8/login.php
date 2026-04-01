@@ -1,5 +1,5 @@
 <?php
-    $nome = $_POST["nome"];
+    $nome = $_POST["usuario"];
     $senha = $_POST["senha"];
 
     if($nome = "isabela" && $senha = "1234"){
